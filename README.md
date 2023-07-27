@@ -4,6 +4,7 @@ Find climbing routes near you and display them on a map with some info.
 > [Project Board](https://github.com/users/bluesh322/projects/1)
 > ## Collaborators
 > [justincase8594](https://github.com/justincase8594)
+> ### How to Run
 
 ---
 
